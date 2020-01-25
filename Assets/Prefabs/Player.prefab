@@ -127,7 +127,7 @@ MonoBehaviour:
   rb: {fileID: 2819245057104599595}
   coll: {fileID: 2819245057104599575}
   jumpStrength: 250
-  aerialMobility: 100
+  aerialMobility: 0
 --- !u!1 &2819245057948098765
 GameObject:
   m_ObjectHideFlags: 0
